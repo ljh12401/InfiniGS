@@ -7,6 +7,7 @@
 
 # Quantitative Experiments
 ![Metric](./asset/metric.png)
+** note: All the training are done using images with original resolution
 
 # Qualitative Experiments
 ![Visualization](./asset/qualititive%20experiment.png)
